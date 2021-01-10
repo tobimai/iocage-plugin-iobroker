@@ -1,5 +1,5 @@
 #!/bin/sh
-
+chmod -R 744 /usr
 ls -la
 ls -la /usr
 ls -la /usr/include
